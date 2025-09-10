@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: 023b6e0a1fa8b80468a74f0516bcc0f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 404585776510710451
+    second: 1fished-Photoroom_0
+  - first:
+      213: -3576955885250138704
+    second: 1fished-Photoroom_1
+  - first:
+      213: -1087171276509713758
+    second: 1fished-Photoroom_2
+  - first:
+      213: 3615360789979346069
+    second: 1fished-Photoroom_3
+  - first:
+      213: 1182676299627593447
+    second: 1fished-Photoroom_4
+  - first:
+      213: -5235701607183363114
+    second: 1fished-Photoroom_5
+  - first:
+      213: -5918248988777850661
+    second: 1fished-Photoroom_6
+  - first:
+      213: -8568760446877435714
+    second: 1fished-Photoroom_7
+  - first:
+      213: 8858772456081330051
+    second: 1fished-Photoroom_8
+  - first:
+      213: -7391613228725406706
+    second: 1fished-Photoroom_9
+  - first:
+      213: -7161100623820257234
+    second: 1fished-Photoroom_10
+  - first:
+      213: -9213309089449300095
+    second: 1fished-Photoroom_11
+  - first:
+      213: -8389555277199974529
+    second: 1fished-Photoroom_12
+  - first:
+      213: 578743874522746467
+    second: 1fished-Photoroom_13
+  - first:
+      213: 8126344799995525794
+    second: 1fished-Photoroom_14
+  - first:
+      213: 4424423500707318538
+    second: 1fished-Photoroom_15
+  - first:
+      213: -3122867010868294195
+    second: 1fished-Photoroom_16
+  - first:
+      213: 7713359383895740025
+    second: 1fished-Photoroom_17
+  - first:
+      213: -736821837086384144
+    second: 1fished-Photoroom_18
+  - first:
+      213: 1678095463227241165
+    second: 1fished-Photoroom_19
+  - first:
+      213: 3435927533988337261
+    second: 1fished-Photoroom_20
+  - first:
+      213: 6730549628330565145
+    second: 1fished-Photoroom_21
+  - first:
+      213: 5903082062544197143
+    second: 1fished-Photoroom_22
+  - first:
+      213: 1214704775319003953
+    second: 1fished-Photoroom_23
+  - first:
+      213: 3118933454970639289
+    second: 1fished-Photoroom_24
+  - first:
+      213: -7029311038438257325
+    second: 1fished-Photoroom_25
+  - first:
+      213: 8435507290334246964
+    second: 1fished-Photoroom_26
+  - first:
+      213: -6488468591627412615
+    second: 1fished-Photoroom_27
+  - first:
+      213: 4399465686985770608
+    second: 1fished-Photoroom_28
+  - first:
+      213: 2064646311078353277
+    second: 1fished-Photoroom_29
+  - first:
+      213: 4987742954825027637
+    second: 1fished-Photoroom_30
+  - first:
+      213: 7714893931282598064
+    second: 1fished-Photoroom_31
+  - first:
+      213: 6428689842368682325
+    second: 1fished-Photoroom_32
+  - first:
+      213: 1993233484497038391
+    second: 1fished-Photoroom_33
+  - first:
+      213: 4769360692920070037
+    second: 1fished-Photoroom_34
+  - first:
+      213: 472738292977450279
+    second: 1fished-Photoroom_35
+  - first:
+      213: -3122152835174485948
+    second: 1fished-Photoroom_36
+  - first:
+      213: 3817724718807797790
+    second: 1fished-Photoroom_37
+  - first:
+      213: 8668136392805076511
+    second: 1fished-Photoroom_38
+  - first:
+      213: 2505626631657759275
+    second: 1fished-Photoroom_39
+  - first:
+      213: -8149069633468093236
+    second: 1fished-Photoroom_40
+  - first:
+      213: 5505842515996716744
+    second: 1fished-Photoroom_41
+  - first:
+      213: -602735108934539960
+    second: 1fished-Photoroom_42
+  - first:
+      213: -285614638169997439
+    second: 1fished-Photoroom_43
+  - first:
+      213: 1449155214914635862
+    second: 1fished-Photoroom_44
+  - first:
+      213: -2405674777897480611
+    second: 1fished-Photoroom_45
+  - first:
+      213: -5671970159016893070
+    second: 1fished-Photoroom_46
+  - first:
+      213: -483996379722926419
+    second: 1fished-Photoroom_47
+  - first:
+      213: 3754555671152090224
+    second: 1fished-Photoroom_48
+  - first:
+      213: -1476451706728203298
+    second: 1fished-Photoroom_49
+  - first:
+      213: -8473641628016476060
+    second: 1fished-Photoroom_50
+  - first:
+      213: 6198504503781772759
+    second: 1fished-Photoroom_51
+  - first:
+      213: 863384154470651475
+    second: 1fished-Photoroom_52
+  - first:
+      213: -4657970856893512312
+    second: 1fished-Photoroom_53
+  - first:
+      213: -7625614661921455050
+    second: 1fished-Photoroom_54
+  - first:
+      213: 1905596024777464952
+    second: 1fished-Photoroom_55
+  - first:
+      213: -2894928044322502021
+    second: 1fished-Photoroom_56
+  - first:
+      213: -8389343912585409077
+    second: 1fished-Photoroom_57
+  - first:
+      213: 367499501635626854
+    second: 1fished-Photoroom_58
+  - first:
+      213: -5551214970077362311
+    second: 1fished-Photoroom_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1fished-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 553
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2b812ce906d9500800000000000000
+      internalID: 404585776510710451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 545
+        width: 108
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd2c6ae2991c5ec0800000000000000
+      internalID: -3576955885250138704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 563
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa61adeb7799e0f0800000000000000
+      internalID: -1087171276509713758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 536
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5943895cb775c2230800000000000000
+      internalID: 3615360789979346069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 558
+        width: 99
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee739314d5b96010800000000000000
+      internalID: 1182676299627593447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 562
+        width: 101
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3d4e1d02d0757b0800000000000000
+      internalID: -5235701607183363114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 557
+        width: 100
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8d493a6e72edda0800000000000000
+      internalID: -5918248988777850661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 551
+        width: 99
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8f376d5c5a51980800000000000000
+      internalID: -8568760446877435714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 548
+        width: 92
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f0ebeec9ea0fa70800000000000000
+      internalID: 8858772456081330051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 552
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e047eb05ee6bb6990800000000000000
+      internalID: -7391613228725406706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 452
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e288d5c7ce8ae9c90800000000000000
+      internalID: -7161100623820257234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 453
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f2f758230c32080800000000000000
+      internalID: -9213309089449300095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 464
+        width: 98
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fddf6dcef429b80800000000000000
+      internalID: -8389555277199974529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 447
+        width: 96
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e8cd0dc7c180800800000000000000
+      internalID: 578743874522746467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 452
+        width: 96
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa73165a8396c070800000000000000
+      internalID: 8126344799995525794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 449
+        width: 99
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bcc877bb5b66d30800000000000000
+      internalID: 4424423500707318538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 449
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdc860dff859a4d0800000000000000
+      internalID: -3122867010868294195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 441
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e08061e7b5b0b60800000000000000
+      internalID: 7713359383895740025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 440
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff17b9617846c5f0800000000000000
+      internalID: -736821837086384144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 445
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2bad0deeac94710800000000000000
+      internalID: 1678095463227241165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 362
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66db5943eddeaf20800000000000000
+      internalID: 3435927533988337261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 368
+        width: 89
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ed7cb1a37b76d50800000000000000
+      internalID: 6730549628330565145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 362
+        width: 96
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7165de92cd5fbe150800000000000000
+      internalID: 5903082062544197143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 362
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1332cdfae8f7bd010800000000000000
+      internalID: 1214704775319003953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 364
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b35b95d37da84b20800000000000000
+      internalID: 3118933454970639289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 373
+        width: 99
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dc72a7aded27e90800000000000000
+      internalID: -7029311038438257325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 368
+        width: 98
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4383794ff21f01570800000000000000
+      internalID: 8435507290334246964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 363
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bd4cb713454f5a0800000000000000
+      internalID: -6488468591627412615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 362
+        width: 96
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0768e42abba0e0d30800000000000000
+      internalID: 4399465686985770608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 365
+        width: 96
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7955a681e817ac10800000000000000
+      internalID: 2064646311078353277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 277
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5309d4d8ac5083540800000000000000
+      internalID: 4987742954825027637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 275
+        width: 93
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b88aedb72fc01b60800000000000000
+      internalID: 7714893931282598064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 267
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5591c89d95b473950800000000000000
+      internalID: 6428689842368682325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 271
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c2cd52b4369ab10800000000000000
+      internalID: 1993233484497038391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 270
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f2633f74c203240800000000000000
+      internalID: 4769360692920070037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 279
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d35a809f08f8600800000000000000
+      internalID: 472738292977450279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 270
+        width: 96
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44032fcc982eba4d0800000000000000
+      internalID: -3122152835174485948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 281
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1054c297684bf430800000000000000
+      internalID: 3817724718807797790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 278
+        width: 96
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e48cd9f186b4870800000000000000
+      internalID: 8668136392805076511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 290
+        width: 96
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2228b76526c5c220800000000000000
+      internalID: 2505626631657759275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 182
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc263f0850b8ee80800000000000000
+      internalID: -8149069633468093236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 186
+        width: 94
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce2a3bd89ea86c40800000000000000
+      internalID: 5505842515996716744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 177
+        width: 91
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845ec42ac97a2a7f0800000000000000
+      internalID: -602735108934539960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 178
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fb935fffa490cf0800000000000000
+      internalID: -285614638169997439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 181
+        width: 107
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65844617dfe6c1410800000000000000
+      internalID: 1449155214914635862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 185
+        width: 101
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ecd4a09835d9ed0800000000000000
+      internalID: -2405674777897480611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 184
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275ae27113d1941b0800000000000000
+      internalID: -5671970159016893070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 177
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da63a026bdf7849f0800000000000000
+      internalID: -483996379722926419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 182
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cd27c8d7cda1430800000000000000
+      internalID: 3754555671152090224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 194
+        width: 96
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb327ccef6928be0800000000000000
+      internalID: -1476451706728203298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 107
+        width: 99
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4608d18a5d3976a80800000000000000
+      internalID: -8473641628016476060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 86
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd429e4103850650800000000000000
+      internalID: 6198504503781772759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 89
+        width: 99
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3569ce7605b5bfb00800000000000000
+      internalID: 863384154470651475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 77
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8858db44f209b5fb0800000000000000
+      internalID: -4657970856893512312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 89
+        width: 93
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63449220edf5c2690800000000000000
+      internalID: -7625614661921455050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 89
+        width: 96
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cd14efc79027a10800000000000000
+      internalID: 1905596024777464952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 98
+        width: 102
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a47db184623d7d0800000000000000
+      internalID: -2894928044322502021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 86
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdc2cff820139b80800000000000000
+      internalID: -8389343912585409077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 86
+        width: 93
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667ef1289de991500800000000000000
+      internalID: 367499501635626854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1fished-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 91
+        width: 92
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97745b4756f16f2b0800000000000000
+      internalID: -5551214970077362311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1fished-Photoroom_0: 404585776510710451
+      1fished-Photoroom_1: -3576955885250138704
+      1fished-Photoroom_10: -7161100623820257234
+      1fished-Photoroom_11: -9213309089449300095
+      1fished-Photoroom_12: -8389555277199974529
+      1fished-Photoroom_13: 578743874522746467
+      1fished-Photoroom_14: 8126344799995525794
+      1fished-Photoroom_15: 4424423500707318538
+      1fished-Photoroom_16: -3122867010868294195
+      1fished-Photoroom_17: 7713359383895740025
+      1fished-Photoroom_18: -736821837086384144
+      1fished-Photoroom_19: 1678095463227241165
+      1fished-Photoroom_2: -1087171276509713758
+      1fished-Photoroom_20: 3435927533988337261
+      1fished-Photoroom_21: 6730549628330565145
+      1fished-Photoroom_22: 5903082062544197143
+      1fished-Photoroom_23: 1214704775319003953
+      1fished-Photoroom_24: 3118933454970639289
+      1fished-Photoroom_25: -7029311038438257325
+      1fished-Photoroom_26: 8435507290334246964
+      1fished-Photoroom_27: -6488468591627412615
+      1fished-Photoroom_28: 4399465686985770608
+      1fished-Photoroom_29: 2064646311078353277
+      1fished-Photoroom_3: 3615360789979346069
+      1fished-Photoroom_30: 4987742954825027637
+      1fished-Photoroom_31: 7714893931282598064
+      1fished-Photoroom_32: 6428689842368682325
+      1fished-Photoroom_33: 1993233484497038391
+      1fished-Photoroom_34: 4769360692920070037
+      1fished-Photoroom_35: 472738292977450279
+      1fished-Photoroom_36: -3122152835174485948
+      1fished-Photoroom_37: 3817724718807797790
+      1fished-Photoroom_38: 8668136392805076511
+      1fished-Photoroom_39: 2505626631657759275
+      1fished-Photoroom_4: 1182676299627593447
+      1fished-Photoroom_40: -8149069633468093236
+      1fished-Photoroom_41: 5505842515996716744
+      1fished-Photoroom_42: -602735108934539960
+      1fished-Photoroom_43: -285614638169997439
+      1fished-Photoroom_44: 1449155214914635862
+      1fished-Photoroom_45: -2405674777897480611
+      1fished-Photoroom_46: -5671970159016893070
+      1fished-Photoroom_47: -483996379722926419
+      1fished-Photoroom_48: 3754555671152090224
+      1fished-Photoroom_49: -1476451706728203298
+      1fished-Photoroom_5: -5235701607183363114
+      1fished-Photoroom_50: -8473641628016476060
+      1fished-Photoroom_51: 6198504503781772759
+      1fished-Photoroom_52: 863384154470651475
+      1fished-Photoroom_53: -4657970856893512312
+      1fished-Photoroom_54: -7625614661921455050
+      1fished-Photoroom_55: 1905596024777464952
+      1fished-Photoroom_56: -2894928044322502021
+      1fished-Photoroom_57: -8389343912585409077
+      1fished-Photoroom_58: 367499501635626854
+      1fished-Photoroom_59: -5551214970077362311
+      1fished-Photoroom_6: -5918248988777850661
+      1fished-Photoroom_7: -8568760446877435714
+      1fished-Photoroom_8: 8858772456081330051
+      1fished-Photoroom_9: -7391613228725406706
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

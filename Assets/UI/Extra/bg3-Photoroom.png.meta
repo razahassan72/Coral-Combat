@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: c33fb5ae68cbb24498a367b01f8581e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2172972231844433173
+    second: bg3-Photoroom_0
+  - first:
+      213: -4529821700636884653
+    second: bg3-Photoroom_1
+  - first:
+      213: 6104448707919615818
+    second: bg3-Photoroom_2
+  - first:
+      213: 7535782943242118650
+    second: bg3-Photoroom_3
+  - first:
+      213: -3199069894777494690
+    second: bg3-Photoroom_4
+  - first:
+      213: -3084445479559857528
+    second: bg3-Photoroom_5
+  - first:
+      213: -991034271722714600
+    second: bg3-Photoroom_6
+  - first:
+      213: 9066621619549863597
+    second: bg3-Photoroom_7
+  - first:
+      213: -7558361007756903916
+    second: bg3-Photoroom_8
+  - first:
+      213: -8360807753255105167
+    second: bg3-Photoroom_9
+  - first:
+      213: 4189081753125190150
+    second: bg3-Photoroom_10
+  - first:
+      213: 5760082807741706695
+    second: bg3-Photoroom_11
+  - first:
+      213: 1473791954519994065
+    second: bg3-Photoroom_12
+  - first:
+      213: 5025251735624870959
+    second: bg3-Photoroom_13
+  - first:
+      213: -3744281004653484976
+    second: bg3-Photoroom_14
+  - first:
+      213: 5869904349445722211
+    second: bg3-Photoroom_15
+  - first:
+      213: -4771688597263048008
+    second: bg3-Photoroom_16
+  - first:
+      213: 229144813662371073
+    second: bg3-Photoroom_17
+  - first:
+      213: -5385577948059594276
+    second: bg3-Photoroom_18
+  - first:
+      213: 2655725999985328317
+    second: bg3-Photoroom_19
+  - first:
+      213: 1806004114550138177
+    second: bg3-Photoroom_20
+  - first:
+      213: 4125365082493284979
+    second: bg3-Photoroom_21
+  - first:
+      213: 2454035419152924732
+    second: bg3-Photoroom_22
+  - first:
+      213: -7896386328341035715
+    second: bg3-Photoroom_23
+  - first:
+      213: 8403750884833239657
+    second: bg3-Photoroom_24
+  - first:
+      213: 8852887210108390913
+    second: bg3-Photoroom_25
+  - first:
+      213: 1419556831070259907
+    second: bg3-Photoroom_26
+  - first:
+      213: 2565911307080685323
+    second: bg3-Photoroom_27
+  - first:
+      213: 4210589388347779487
+    second: bg3-Photoroom_28
+  - first:
+      213: 1182852851111778739
+    second: bg3-Photoroom_29
+  - first:
+      213: 7561992877347010725
+    second: bg3-Photoroom_30
+  - first:
+      213: 8633803528026057616
+    second: bg3-Photoroom_31
+  - first:
+      213: 6817561683227421844
+    second: bg3-Photoroom_32
+  - first:
+      213: 2670007530638526970
+    second: bg3-Photoroom_33
+  - first:
+      213: -4279107251082771592
+    second: bg3-Photoroom_34
+  - first:
+      213: -6942545439464880266
+    second: bg3-Photoroom_35
+  - first:
+      213: -4086564342710850808
+    second: bg3-Photoroom_36
+  - first:
+      213: 8274118865897172996
+    second: bg3-Photoroom_37
+  - first:
+      213: 696090040349348712
+    second: bg3-Photoroom_38
+  - first:
+      213: 337328815439904433
+    second: bg3-Photoroom_39
+  - first:
+      213: -1607563135304931577
+    second: bg3-Photoroom_40
+  - first:
+      213: 3074383248796563736
+    second: bg3-Photoroom_41
+  - first:
+      213: -7897776024367334556
+    second: bg3-Photoroom_42
+  - first:
+      213: 7118050827346935226
+    second: bg3-Photoroom_43
+  - first:
+      213: 5905377477059567170
+    second: bg3-Photoroom_44
+  - first:
+      213: 874898110792094241
+    second: bg3-Photoroom_45
+  - first:
+      213: -4913972728738395193
+    second: bg3-Photoroom_46
+  - first:
+      213: -6607795267038358108
+    second: bg3-Photoroom_47
+  - first:
+      213: 1415453163499707492
+    second: bg3-Photoroom_48
+  - first:
+      213: -5583010181743213377
+    second: bg3-Photoroom_49
+  - first:
+      213: 1397975283380758574
+    second: bg3-Photoroom_50
+  - first:
+      213: -7139108462723739997
+    second: bg3-Photoroom_51
+  - first:
+      213: 1393724046376152142
+    second: bg3-Photoroom_52
+  - first:
+      213: -8478189549342600476
+    second: bg3-Photoroom_53
+  - first:
+      213: 4332151255878052826
+    second: bg3-Photoroom_54
+  - first:
+      213: 417848240687835959
+    second: bg3-Photoroom_55
+  - first:
+      213: -7635103673236862681
+    second: bg3-Photoroom_56
+  - first:
+      213: 7830959878020320199
+    second: bg3-Photoroom_57
+  - first:
+      213: 706047656971238855
+    second: bg3-Photoroom_58
+  - first:
+      213: 2425578019014819859
+    second: bg3-Photoroom_59
+  - first:
+      213: 1932573038302693087
+    second: bg3-Photoroom_60
+  - first:
+      213: 7293199179424078386
+    second: bg3-Photoroom_61
+  - first:
+      213: -3253712368639588867
+    second: bg3-Photoroom_62
+  - first:
+      213: 5360986633589477528
+    second: bg3-Photoroom_63
+  - first:
+      213: -8130311228118943019
+    second: bg3-Photoroom_64
+  - first:
+      213: -6472558841581153053
+    second: bg3-Photoroom_65
+  - first:
+      213: 2732769316660247171
+    second: bg3-Photoroom_66
+  - first:
+      213: 1963328790026571116
+    second: bg3-Photoroom_67
+  - first:
+      213: -7209331745409442642
+    second: bg3-Photoroom_68
+  - first:
+      213: 7204437219104347471
+    second: bg3-Photoroom_69
+  - first:
+      213: 6647194425676186839
+    second: bg3-Photoroom_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg3-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 546
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d00e16bb2f72e10800000000000000
+      internalID: 2172972231844433173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 548
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351ceadc927d221c0800000000000000
+      internalID: -4529821700636884653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 544
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a471421d1cb57b450800000000000000
+      internalID: 6104448707919615818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 547
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5e46c19aa749860800000000000000
+      internalID: 7535782943242118650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 545
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53242e41ee9a93d0800000000000000
+      internalID: -3199069894777494690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 551
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a76cdad29d135d0800000000000000
+      internalID: -3084445479559857528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 544
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81acab1a4932f32f0800000000000000
+      internalID: -991034271722714600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 545
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae7522735c13dd70800000000000000
+      internalID: 9066621619549863597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 554
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a7c7895be4b1790800000000000000
+      internalID: -7558361007756903916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 548
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dc5e755a178fb80800000000000000
+      internalID: -8360807753255105167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 548
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60af816e8ab922a30800000000000000
+      internalID: 4189081753125190150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 443
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c17740abccefef40800000000000000
+      internalID: 5760082807741706695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 441
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de2ef169f5f37410800000000000000
+      internalID: 1473791954519994065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 444
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ce5d024d74db540800000000000000
+      internalID: 5025251735624870959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 450
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054e26aa344a90cc0800000000000000
+      internalID: -3744281004653484976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 447
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3609b3ed7e6167150800000000000000
+      internalID: 5869904349445722211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 441
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2aa55908e87cdb0800000000000000
+      internalID: -4771688597263048008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 445
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10df7747ef51e2300800000000000000
+      internalID: 229144813662371073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 443
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd11bb7e3659245b0800000000000000
+      internalID: -5385577948059594276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 447
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db005e1f9b80bd420800000000000000
+      internalID: 2655725999985328317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 439
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145a7ae6c27301910800000000000000
+      internalID: 1806004114550138177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 439
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372ffc67fad304930800000000000000
+      internalID: 4125365082493284979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 440
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3046d0363c7e0220800000000000000
+      internalID: 2454035419152924732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 342
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d354bf1a8766a6290800000000000000
+      internalID: -7896386328341035715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 339
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9622c5f97ee10a470800000000000000
+      internalID: 8403750884833239657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 337
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e0c135306cbda70800000000000000
+      internalID: 8852887210108390913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 337
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca0c6eaa6743b310800000000000000
+      internalID: 1419556831070259907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 342
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07d3bf2db2fb9320800000000000000
+      internalID: 2565911307080685323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 352
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99af737db40f6a30800000000000000
+      internalID: 4210589388347779487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 353
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9531ca6665a6010800000000000000
+      internalID: 1182852851111778739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 353
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a87d40f47891f860800000000000000
+      internalID: 7561992877347010725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 352
+        width: 37
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09be18c909e61d770800000000000000
+      internalID: 8633803528026057616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 352
+        width: 127
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ca51bda38dc9e50800000000000000
+      internalID: 6817561683227421844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 353
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9c35be3b5cd0520800000000000000
+      internalID: 2670007530638526970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 352
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873c96770ae8d94c0800000000000000
+      internalID: -4279107251082771592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 251
+        width: 17
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67700bbb4bf17af90800000000000000
+      internalID: -6942545439464880266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 251
+        width: 19
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b21f0c16b9947c0800000000000000
+      internalID: -4086564342710850808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 250
+        width: 19
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400b827354393d270800000000000000
+      internalID: 8274118865897172996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 250
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863d5b2243209a900800000000000000
+      internalID: 696090040349348712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 251
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be7cc835ce6ea400800000000000000
+      internalID: 337328815439904433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 250
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707e22e78d9c0b9e0800000000000000
+      internalID: -1607563135304931577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 251
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8193ee7a6476aaa20800000000000000
+      internalID: 3074383248796563736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 250
+        width: 94
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bfcffcc86756290800000000000000
+      internalID: -7897776024367334556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 251
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd7031b38568c260800000000000000
+      internalID: 7118050827346935226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 251
+        width: 89
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e5ab0078d14f150800000000000000
+      internalID: 5905377477059567170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 251
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1225c644233442c00800000000000000
+      internalID: 874898110792094241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 250
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb479ba6df0ecbb0800000000000000
+      internalID: -4913972728738395193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 251
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5dba7d6356c44a0800000000000000
+      internalID: -6607795267038358108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 250
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c5a9e1723b4a310800000000000000
+      internalID: 1415453163499707492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 251
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb48ecbd1d92582b0800000000000000
+      internalID: -5583010181743213377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 164
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28afaa0d1b966310800000000000000
+      internalID: 1397975283380758574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 164
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aecd528daaccec90800000000000000
+      internalID: -7139108462723739997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 164
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cab2bc2a0875310800000000000000
+      internalID: 1393724046376152142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 164
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e25105368b675a80800000000000000
+      internalID: -8478189549342600476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 164
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbafdf4d94ee1c30800000000000000
+      internalID: 4332151255878052826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 164
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b6834d2ce7cc500800000000000000
+      internalID: 417848240687835959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 164
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729cf6569a9aa0690800000000000000
+      internalID: -7635103673236862681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 164
+        width: 102
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbccb3d4882dac60800000000000000
+      internalID: 7830959878020320199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 164
+        width: 88
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd744c6a926cc900800000000000000
+      internalID: 706047656971238855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 164
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310cf566b5269a120800000000000000
+      internalID: 2425578019014819859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 209
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6878a60f0e1da10800000000000000
+      internalID: 1932573038302693087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 164
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a1ebd3306a63560800000000000000
+      internalID: 7293199179424078386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 164
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df541f1f6dd78d2d0800000000000000
+      internalID: -3253712368639588867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 163
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890d7b480fc066a40800000000000000
+      internalID: 5360986633589477528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 77
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dab996a3055b2f80800000000000000
+      internalID: -8130311228118943019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 77
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4ddb3d60adc26a0800000000000000
+      internalID: -6472558841581153053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 77
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38afe94f63fbce520800000000000000
+      internalID: 2732769316660247171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 115
+        width: 75
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dc4d2e1252f3b10800000000000000
+      internalID: 1963328790026571116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 77
+        width: 68
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac5ce669fe43fb90800000000000000
+      internalID: -7209331745409442642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 77
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f455153ea7d4bf360800000000000000
+      internalID: 7204437219104347471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg3-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 77
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4c26f9c149f3c50800000000000000
+      internalID: 6647194425676186839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg3-Photoroom_0: 2172972231844433173
+      bg3-Photoroom_1: -4529821700636884653
+      bg3-Photoroom_10: 4189081753125190150
+      bg3-Photoroom_11: 5760082807741706695
+      bg3-Photoroom_12: 1473791954519994065
+      bg3-Photoroom_13: 5025251735624870959
+      bg3-Photoroom_14: -3744281004653484976
+      bg3-Photoroom_15: 5869904349445722211
+      bg3-Photoroom_16: -4771688597263048008
+      bg3-Photoroom_17: 229144813662371073
+      bg3-Photoroom_18: -5385577948059594276
+      bg3-Photoroom_19: 2655725999985328317
+      bg3-Photoroom_2: 6104448707919615818
+      bg3-Photoroom_20: 1806004114550138177
+      bg3-Photoroom_21: 4125365082493284979
+      bg3-Photoroom_22: 2454035419152924732
+      bg3-Photoroom_23: -7896386328341035715
+      bg3-Photoroom_24: 8403750884833239657
+      bg3-Photoroom_25: 8852887210108390913
+      bg3-Photoroom_26: 1419556831070259907
+      bg3-Photoroom_27: 2565911307080685323
+      bg3-Photoroom_28: 4210589388347779487
+      bg3-Photoroom_29: 1182852851111778739
+      bg3-Photoroom_3: 7535782943242118650
+      bg3-Photoroom_30: 7561992877347010725
+      bg3-Photoroom_31: 8633803528026057616
+      bg3-Photoroom_32: 6817561683227421844
+      bg3-Photoroom_33: 2670007530638526970
+      bg3-Photoroom_34: -4279107251082771592
+      bg3-Photoroom_35: -6942545439464880266
+      bg3-Photoroom_36: -4086564342710850808
+      bg3-Photoroom_37: 8274118865897172996
+      bg3-Photoroom_38: 696090040349348712
+      bg3-Photoroom_39: 337328815439904433
+      bg3-Photoroom_4: -3199069894777494690
+      bg3-Photoroom_40: -1607563135304931577
+      bg3-Photoroom_41: 3074383248796563736
+      bg3-Photoroom_42: -7897776024367334556
+      bg3-Photoroom_43: 7118050827346935226
+      bg3-Photoroom_44: 5905377477059567170
+      bg3-Photoroom_45: 874898110792094241
+      bg3-Photoroom_46: -4913972728738395193
+      bg3-Photoroom_47: -6607795267038358108
+      bg3-Photoroom_48: 1415453163499707492
+      bg3-Photoroom_49: -5583010181743213377
+      bg3-Photoroom_5: -3084445479559857528
+      bg3-Photoroom_50: 1397975283380758574
+      bg3-Photoroom_51: -7139108462723739997
+      bg3-Photoroom_52: 1393724046376152142
+      bg3-Photoroom_53: -8478189549342600476
+      bg3-Photoroom_54: 4332151255878052826
+      bg3-Photoroom_55: 417848240687835959
+      bg3-Photoroom_56: -7635103673236862681
+      bg3-Photoroom_57: 7830959878020320199
+      bg3-Photoroom_58: 706047656971238855
+      bg3-Photoroom_59: 2425578019014819859
+      bg3-Photoroom_6: -991034271722714600
+      bg3-Photoroom_60: 1932573038302693087
+      bg3-Photoroom_61: 7293199179424078386
+      bg3-Photoroom_62: -3253712368639588867
+      bg3-Photoroom_63: 5360986633589477528
+      bg3-Photoroom_64: -8130311228118943019
+      bg3-Photoroom_65: -6472558841581153053
+      bg3-Photoroom_66: 2732769316660247171
+      bg3-Photoroom_67: 1963328790026571116
+      bg3-Photoroom_68: -7209331745409442642
+      bg3-Photoroom_69: 7204437219104347471
+      bg3-Photoroom_7: 9066621619549863597
+      bg3-Photoroom_70: 6647194425676186839
+      bg3-Photoroom_8: -7558361007756903916
+      bg3-Photoroom_9: -8360807753255105167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

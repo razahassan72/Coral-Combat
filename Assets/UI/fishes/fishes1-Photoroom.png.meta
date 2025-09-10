@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: 6d906c4f66510bc419e5aea807bef310
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1966038824306035278
+    second: fishes1-Photoroom_0
+  - first:
+      213: -2115378736914175196
+    second: fishes1-Photoroom_1
+  - first:
+      213: 1935629217786547834
+    second: fishes1-Photoroom_2
+  - first:
+      213: 5587570132126561677
+    second: fishes1-Photoroom_3
+  - first:
+      213: -5066260873599852945
+    second: fishes1-Photoroom_4
+  - first:
+      213: 1269087424559125852
+    second: fishes1-Photoroom_5
+  - first:
+      213: -7701679798821897896
+    second: fishes1-Photoroom_6
+  - first:
+      213: 9034308956500954843
+    second: fishes1-Photoroom_7
+  - first:
+      213: 8785880038211925442
+    second: fishes1-Photoroom_8
+  - first:
+      213: 1645042656851421410
+    second: fishes1-Photoroom_9
+  - first:
+      213: -5302032859551925084
+    second: fishes1-Photoroom_10
+  - first:
+      213: -8149331420847545984
+    second: fishes1-Photoroom_11
+  - first:
+      213: 421792101739916962
+    second: fishes1-Photoroom_12
+  - first:
+      213: -7207355653124985288
+    second: fishes1-Photoroom_13
+  - first:
+      213: -5288150304518761354
+    second: fishes1-Photoroom_14
+  - first:
+      213: -523339976442299762
+    second: fishes1-Photoroom_15
+  - first:
+      213: -8770161402074557320
+    second: fishes1-Photoroom_16
+  - first:
+      213: -6559379861060367720
+    second: fishes1-Photoroom_17
+  - first:
+      213: -6012973124738176728
+    second: fishes1-Photoroom_18
+  - first:
+      213: -4675888524248649800
+    second: fishes1-Photoroom_19
+  - first:
+      213: -8880498034614762436
+    second: fishes1-Photoroom_20
+  - first:
+      213: 2360035847087054731
+    second: fishes1-Photoroom_21
+  - first:
+      213: -1647858876941273394
+    second: fishes1-Photoroom_22
+  - first:
+      213: -4655293645968810340
+    second: fishes1-Photoroom_23
+  - first:
+      213: 724731868651369320
+    second: fishes1-Photoroom_24
+  - first:
+      213: 598479853904683192
+    second: fishes1-Photoroom_25
+  - first:
+      213: -5223252475698120530
+    second: fishes1-Photoroom_26
+  - first:
+      213: -640503249637405102
+    second: fishes1-Photoroom_27
+  - first:
+      213: -7446758675476156884
+    second: fishes1-Photoroom_28
+  - first:
+      213: 7067050321584003658
+    second: fishes1-Photoroom_29
+  - first:
+      213: 7982924996352146434
+    second: fishes1-Photoroom_30
+  - first:
+      213: 7550542670623161244
+    second: fishes1-Photoroom_31
+  - first:
+      213: -8025137607663582484
+    second: fishes1-Photoroom_32
+  - first:
+      213: 8552264490797360161
+    second: fishes1-Photoroom_33
+  - first:
+      213: -3439130703582985271
+    second: fishes1-Photoroom_34
+  - first:
+      213: -6925705947987292051
+    second: fishes1-Photoroom_35
+  - first:
+      213: 6767471624977611428
+    second: fishes1-Photoroom_36
+  - first:
+      213: 7111873927545138083
+    second: fishes1-Photoroom_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fishes1-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 534
+        width: 206
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42be0dc1f3aa4a2e0800000000000000
+      internalID: -2115378736914175196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishes1-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 524
+        width: 210
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ec807a48cbcda10800000000000000
+      internalID: 1935629217786547834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishes1-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 498
+        width: 197
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d857cf25e690b8d40800000000000000
+      internalID: 5587570132126561677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishes1-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 464
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ede91e39601b9b0800000000000000
+      internalID: -5066260873599852945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishes1-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 502
+        width: 204
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5513c9e944bc9110800000000000000
+      internalID: 1269087424559125852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishes1-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 414
+        width: 204
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde8e5f4120506d70800000000000000
+      internalID: 9034308956500954843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishes1-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 203
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e86ef1a49d54d610800000000000000
+      internalID: 1645042656851421410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishes1-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 307
+        width: 211
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac75f2a4356b66b0800000000000000
+      internalID: -5302032859551925084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishes1-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 211
+        width: 187
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a45aaf4c668f4a0800000000000000
+      internalID: -6559379861060367720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishes1-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 167
+        width: 202
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c348b32a61222c480800000000000000
+      internalID: -8880498034614762436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishes1-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 223
+        width: 210
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea875dd1c874387b0800000000000000
+      internalID: -5223252475698120530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishes1-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 81
+        width: 196
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e6f24707cc7a890800000000000000
+      internalID: -7446758675476156884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishes1-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 54
+        width: 208
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a13db13d4331260800000000000000
+      internalID: 7067050321584003658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishes1-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 199
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b3cefed8ae8c860800000000000000
+      internalID: 7550542670623161244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishes1-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 62
+        width: 189
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c30ccca8d0c540d0800000000000000
+      internalID: -3439130703582985271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishes1-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 66
+        width: 206
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60586f5223f2ef90800000000000000
+      internalID: -6925705947987292051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d881cc081f80ed54a8feb20657558854
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fishes1-Photoroom_14: -1130346696
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

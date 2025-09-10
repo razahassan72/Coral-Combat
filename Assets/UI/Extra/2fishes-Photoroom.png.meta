@@ -1,0 +1,1937 @@
+fileFormatVersion: 2
+guid: ece0413426824e9489d95dd4dd76c96b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1440928880493299019
+    second: 2fishes-Photoroom_0
+  - first:
+      213: 4353690872484776915
+    second: 2fishes-Photoroom_1
+  - first:
+      213: -6491938502047813016
+    second: 2fishes-Photoroom_2
+  - first:
+      213: -3342873447727154380
+    second: 2fishes-Photoroom_3
+  - first:
+      213: 5365494428969609961
+    second: 2fishes-Photoroom_4
+  - first:
+      213: -6858918847273953273
+    second: 2fishes-Photoroom_5
+  - first:
+      213: 5396609028108618289
+    second: 2fishes-Photoroom_6
+  - first:
+      213: -3257192584764255477
+    second: 2fishes-Photoroom_7
+  - first:
+      213: 2200553824998209870
+    second: 2fishes-Photoroom_8
+  - first:
+      213: 4407590232847426327
+    second: 2fishes-Photoroom_9
+  - first:
+      213: -8767516107059462860
+    second: 2fishes-Photoroom_10
+  - first:
+      213: 3796696359707962659
+    second: 2fishes-Photoroom_11
+  - first:
+      213: -4588763418644319048
+    second: 2fishes-Photoroom_12
+  - first:
+      213: 7223129459346061298
+    second: 2fishes-Photoroom_13
+  - first:
+      213: -2084512787773064805
+    second: 2fishes-Photoroom_14
+  - first:
+      213: 7909103572119884284
+    second: 2fishes-Photoroom_15
+  - first:
+      213: -3512610543257668604
+    second: 2fishes-Photoroom_16
+  - first:
+      213: -6657429571157345250
+    second: 2fishes-Photoroom_17
+  - first:
+      213: -1088752355500256254
+    second: 2fishes-Photoroom_18
+  - first:
+      213: 6260843621611191561
+    second: 2fishes-Photoroom_19
+  - first:
+      213: 2173667509316014283
+    second: 2fishes-Photoroom_20
+  - first:
+      213: -3080268997432280942
+    second: 2fishes-Photoroom_21
+  - first:
+      213: -5969055704689261748
+    second: 2fishes-Photoroom_22
+  - first:
+      213: -8812320282751466820
+    second: 2fishes-Photoroom_23
+  - first:
+      213: -4075770878055555561
+    second: 2fishes-Photoroom_24
+  - first:
+      213: 6476661738307800400
+    second: 2fishes-Photoroom_25
+  - first:
+      213: -5913904827049163017
+    second: 2fishes-Photoroom_26
+  - first:
+      213: -4777891983816011747
+    second: 2fishes-Photoroom_27
+  - first:
+      213: 5514935564716352135
+    second: 2fishes-Photoroom_28
+  - first:
+      213: -4339060085396671295
+    second: 2fishes-Photoroom_29
+  - first:
+      213: 6717267929921217699
+    second: 2fishes-Photoroom_30
+  - first:
+      213: -3799234636322875830
+    second: 2fishes-Photoroom_31
+  - first:
+      213: -1136788595125209032
+    second: 2fishes-Photoroom_32
+  - first:
+      213: 3253656449304650817
+    second: 2fishes-Photoroom_33
+  - first:
+      213: 755717194843252129
+    second: 2fishes-Photoroom_34
+  - first:
+      213: 8931769521934796591
+    second: 2fishes-Photoroom_35
+  - first:
+      213: -5815042883981450159
+    second: 2fishes-Photoroom_36
+  - first:
+      213: -2864185465297525894
+    second: 2fishes-Photoroom_37
+  - first:
+      213: 1442008750233460437
+    second: 2fishes-Photoroom_38
+  - first:
+      213: -5079851292171688519
+    second: 2fishes-Photoroom_39
+  - first:
+      213: 6120524305630148139
+    second: 2fishes-Photoroom_40
+  - first:
+      213: 7267752757506771195
+    second: 2fishes-Photoroom_41
+  - first:
+      213: -8743131721735786701
+    second: 2fishes-Photoroom_42
+  - first:
+      213: -6640669833788694889
+    second: 2fishes-Photoroom_43
+  - first:
+      213: 6235020786197638747
+    second: 2fishes-Photoroom_44
+  - first:
+      213: 6308165426392916091
+    second: 2fishes-Photoroom_45
+  - first:
+      213: 6887828338143892330
+    second: 2fishes-Photoroom_46
+  - first:
+      213: -2002144304225840242
+    second: 2fishes-Photoroom_47
+  - first:
+      213: -4800717536299921552
+    second: 2fishes-Photoroom_48
+  - first:
+      213: 8116846143902281319
+    second: 2fishes-Photoroom_49
+  - first:
+      213: -1741089273264633502
+    second: 2fishes-Photoroom_50
+  - first:
+      213: 8991563361321571194
+    second: 2fishes-Photoroom_51
+  - first:
+      213: 3952861580232370185
+    second: 2fishes-Photoroom_52
+  - first:
+      213: 7636935613508525584
+    second: 2fishes-Photoroom_53
+  - first:
+      213: -2647514862153974431
+    second: 2fishes-Photoroom_54
+  - first:
+      213: -2849623908864334131
+    second: 2fishes-Photoroom_55
+  - first:
+      213: -3344805252847538499
+    second: 2fishes-Photoroom_56
+  - first:
+      213: -2134141670947440378
+    second: 2fishes-Photoroom_57
+  - first:
+      213: 4164504121278926987
+    second: 2fishes-Photoroom_58
+  - first:
+      213: -6824524414882682803
+    second: 2fishes-Photoroom_59
+  - first:
+      213: 3605175201999410293
+    second: 2fishes-Photoroom_60
+  - first:
+      213: -5443258031537065825
+    second: 2fishes-Photoroom_61
+  - first:
+      213: 3659613329212925896
+    second: 2fishes-Photoroom_62
+  - first:
+      213: 7390859792868975965
+    second: 2fishes-Photoroom_63
+  - first:
+      213: -1865849823036606089
+    second: 2fishes-Photoroom_64
+  - first:
+      213: 6101462697612997375
+    second: 2fishes-Photoroom_65
+  - first:
+      213: 1115174014585015485
+    second: 2fishes-Photoroom_66
+  - first:
+      213: -7779644444098149328
+    second: 2fishes-Photoroom_67
+  - first:
+      213: -9054683149746587270
+    second: 2fishes-Photoroom_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 539
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b458764be253ff310800000000000000
+      internalID: 1440928880493299019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 543
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbc05c18ca6b6c30800000000000000
+      internalID: 4353690872484776915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 533
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86232c1045008e5a0800000000000000
+      internalID: -6491938502047813016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 526
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b33238f4abb91d0800000000000000
+      internalID: -3342873447727154380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 530
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea221b61c0167a40800000000000000
+      internalID: 5365494428969609961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 541
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708110506a930d0a0800000000000000
+      internalID: -6858918847273953273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 517
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a8410915b94ea40800000000000000
+      internalID: 5396609028108618289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 543
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03171cf9902cc2d0800000000000000
+      internalID: -3257192584764255477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 523
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4935287b00f98e10800000000000000
+      internalID: 2200553824998209870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 537
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7132a50e6f7ea2d30800000000000000
+      internalID: 4407590232847426327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 544
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d743c8d86835680800000000000000
+      internalID: -8767516107059462860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 538
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d6960393390b430800000000000000
+      internalID: 3796696359707962659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 548
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4f569abff6150c0800000000000000
+      internalID: -4588763418644319048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 422
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f73bf639f5bd3460800000000000000
+      internalID: 7223129459346061298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 436
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99f60be9a25213e0800000000000000
+      internalID: -2084512787773064805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 431
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf19afb6bc7c2cd60800000000000000
+      internalID: 7909103572119884284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 434
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404b5de4253b04fc0800000000000000
+      internalID: -3512610543257668604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 431
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c3cfdd31f0c93a0800000000000000
+      internalID: -6657429571157345250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 434
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204990a4089f3e0f0800000000000000
+      internalID: -1088752355500256254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 428
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90db76c3a1cf2e650800000000000000
+      internalID: 6260843621611191561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 435
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0d698451b6a2e10800000000000000
+      internalID: 2173667509316014283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 444
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2987663baafa045d0800000000000000
+      internalID: -3080268997432280942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 419
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c434a754677a92da0800000000000000
+      internalID: -5969055704689261748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 433
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb201ab746954b580800000000000000
+      internalID: -8812320282751466820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 446
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71edd931bf3ff67c0800000000000000
+      internalID: -4075770878055555561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 456
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d43324989b1e950800000000000000
+      internalID: 6476661738307800400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 335
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6444c94e69deda0800000000000000
+      internalID: -5913904827049163017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 356
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10d5791e8481bdb0800000000000000
+      internalID: -4777891983816011747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 337
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782261e3dacf88c40800000000000000
+      internalID: 5514935564716352135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 329
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4fad677df88c3c0800000000000000
+      internalID: -4339060085396671295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 336
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4e318b797883d50800000000000000
+      internalID: 6717267929921217699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 340
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a465d9b3a38664bc0800000000000000
+      internalID: -3799234636322875830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 329
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838b8d2bbc05930f0800000000000000
+      internalID: -1136788595125209032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 329
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14466f15d4f472d20800000000000000
+      internalID: 3253656449304650817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 359
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a56945e8c8dc7a00800000000000000
+      internalID: 755717194843252129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 342
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f278592ce0504fb70800000000000000
+      internalID: 8931769521934796591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 338
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1546f927e41dc4fa0800000000000000
+      internalID: -5815042883981450159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 332
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73aa129e7e5048d0800000000000000
+      internalID: -2864185465297525894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 332
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de9ba8715b030410800000000000000
+      internalID: 1442008750233460437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 340
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b52c4af92eb089b0800000000000000
+      internalID: -5079851292171688519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 239
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26ba349d6870f450800000000000000
+      internalID: 6120524305630148139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 257
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf88e8270ae3cd460800000000000000
+      internalID: 7267752757506771195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 269
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f2d7da5082aa680800000000000000
+      internalID: -8743131721735786701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 242
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e5f5e48f997d3a0800000000000000
+      internalID: -6640669833788694889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 242
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5eac78de5e378650800000000000000
+      internalID: 6235020786197638747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 242
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70ec80880b1b8750800000000000000
+      internalID: 6308165426392916091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 242
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a639fe8516b769f50800000000000000
+      internalID: 6887828338143892330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 242
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e831c85fc54f634e0800000000000000
+      internalID: -2002144304225840242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 242
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fcad506dc606db0800000000000000
+      internalID: -4800717536299921552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 241
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e6bcf1094d4a070800000000000000
+      internalID: 8116846143902281319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 242
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26981d8d78866d7e0800000000000000
+      internalID: -1741089273264633502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 242
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a735dfedc3378cc70800000000000000
+      internalID: 8991563361321571194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 242
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9082a000aa26bd630800000000000000
+      internalID: 3952861580232370185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 242
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e94bf6a78dbf960800000000000000
+      internalID: 7636935613508525584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 242
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dbebf8243224bd0800000000000000
+      internalID: -2647514862153974431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 242
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc66ea0272a1478d0800000000000000
+      internalID: -2849623908864334131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 242
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe6925185dd491d0800000000000000
+      internalID: -3344805252847538499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 239
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609b1da15710262e0800000000000000
+      internalID: -2134141670947440378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 152
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b801b7e0f6a4bc930800000000000000
+      internalID: 4164504121278926987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 152
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48efe9d33b6a41a0800000000000000
+      internalID: -6824524414882682803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 152
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574d834ceb7280230800000000000000
+      internalID: 3605175201999410293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 152
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90f071f8a9a574b0800000000000000
+      internalID: -5443258031537065825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 152
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c76507feee89c230800000000000000
+      internalID: 3659613329212925896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 152
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d552caab2db919660800000000000000
+      internalID: 7390859792868975965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 152
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7797dadb87b2b16e0800000000000000
+      internalID: -1865849823036606089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 152
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2f48d1fffbca450800000000000000
+      internalID: 6101462697612997375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 152
+        width: 68
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc061a9bd4e97f00800000000000000
+      internalID: 1115174014585015485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 152
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03440bea896290490800000000000000
+      internalID: -7779644444098149328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2fishes-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 152
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79b3a926ad475280800000000000000
+      internalID: -9054683149746587270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2fishes-Photoroom_0: 1440928880493299019
+      2fishes-Photoroom_1: 4353690872484776915
+      2fishes-Photoroom_10: -8767516107059462860
+      2fishes-Photoroom_11: 3796696359707962659
+      2fishes-Photoroom_12: -4588763418644319048
+      2fishes-Photoroom_13: 7223129459346061298
+      2fishes-Photoroom_14: -2084512787773064805
+      2fishes-Photoroom_15: 7909103572119884284
+      2fishes-Photoroom_16: -3512610543257668604
+      2fishes-Photoroom_17: -6657429571157345250
+      2fishes-Photoroom_18: -1088752355500256254
+      2fishes-Photoroom_19: 6260843621611191561
+      2fishes-Photoroom_2: -6491938502047813016
+      2fishes-Photoroom_20: 2173667509316014283
+      2fishes-Photoroom_21: -3080268997432280942
+      2fishes-Photoroom_22: -5969055704689261748
+      2fishes-Photoroom_23: -8812320282751466820
+      2fishes-Photoroom_24: -4075770878055555561
+      2fishes-Photoroom_25: 6476661738307800400
+      2fishes-Photoroom_26: -5913904827049163017
+      2fishes-Photoroom_27: -4777891983816011747
+      2fishes-Photoroom_28: 5514935564716352135
+      2fishes-Photoroom_29: -4339060085396671295
+      2fishes-Photoroom_3: -3342873447727154380
+      2fishes-Photoroom_30: 6717267929921217699
+      2fishes-Photoroom_31: -3799234636322875830
+      2fishes-Photoroom_32: -1136788595125209032
+      2fishes-Photoroom_33: 3253656449304650817
+      2fishes-Photoroom_34: 755717194843252129
+      2fishes-Photoroom_35: 8931769521934796591
+      2fishes-Photoroom_36: -5815042883981450159
+      2fishes-Photoroom_37: -2864185465297525894
+      2fishes-Photoroom_38: 1442008750233460437
+      2fishes-Photoroom_39: -5079851292171688519
+      2fishes-Photoroom_4: 5365494428969609961
+      2fishes-Photoroom_40: 6120524305630148139
+      2fishes-Photoroom_41: 7267752757506771195
+      2fishes-Photoroom_42: -8743131721735786701
+      2fishes-Photoroom_43: -6640669833788694889
+      2fishes-Photoroom_44: 6235020786197638747
+      2fishes-Photoroom_45: 6308165426392916091
+      2fishes-Photoroom_46: 6887828338143892330
+      2fishes-Photoroom_47: -2002144304225840242
+      2fishes-Photoroom_48: -4800717536299921552
+      2fishes-Photoroom_49: 8116846143902281319
+      2fishes-Photoroom_5: -6858918847273953273
+      2fishes-Photoroom_50: -1741089273264633502
+      2fishes-Photoroom_51: 8991563361321571194
+      2fishes-Photoroom_52: 3952861580232370185
+      2fishes-Photoroom_53: 7636935613508525584
+      2fishes-Photoroom_54: -2647514862153974431
+      2fishes-Photoroom_55: -2849623908864334131
+      2fishes-Photoroom_56: -3344805252847538499
+      2fishes-Photoroom_57: -2134141670947440378
+      2fishes-Photoroom_58: 4164504121278926987
+      2fishes-Photoroom_59: -6824524414882682803
+      2fishes-Photoroom_6: 5396609028108618289
+      2fishes-Photoroom_60: 3605175201999410293
+      2fishes-Photoroom_61: -5443258031537065825
+      2fishes-Photoroom_62: 3659613329212925896
+      2fishes-Photoroom_63: 7390859792868975965
+      2fishes-Photoroom_64: -1865849823036606089
+      2fishes-Photoroom_65: 6101462697612997375
+      2fishes-Photoroom_66: 1115174014585015485
+      2fishes-Photoroom_67: -7779644444098149328
+      2fishes-Photoroom_68: -9054683149746587270
+      2fishes-Photoroom_7: -3257192584764255477
+      2fishes-Photoroom_8: 2200553824998209870
+      2fishes-Photoroom_9: 4407590232847426327
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

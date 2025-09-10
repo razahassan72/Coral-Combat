@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 1fb26274ab51a964199d53fef914a538
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2500804521197192005
+    second: FISHESSS2-Photoroom_0
+  - first:
+      213: -403687507154629327
+    second: FISHESSS2-Photoroom_1
+  - first:
+      213: 804512162667012017
+    second: FISHESSS2-Photoroom_2
+  - first:
+      213: -1281772524347952842
+    second: FISHESSS2-Photoroom_3
+  - first:
+      213: -4894347943799969436
+    second: FISHESSS2-Photoroom_4
+  - first:
+      213: -3493458933166997839
+    second: FISHESSS2-Photoroom_5
+  - first:
+      213: 1393715822775596564
+    second: FISHESSS2-Photoroom_6
+  - first:
+      213: 2172071817811560073
+    second: FISHESSS2-Photoroom_7
+  - first:
+      213: 5117856826978288589
+    second: FISHESSS2-Photoroom_8
+  - first:
+      213: -3773573919542278290
+    second: FISHESSS2-Photoroom_9
+  - first:
+      213: 9001862010061006582
+    second: FISHESSS2-Photoroom_10
+  - first:
+      213: 1291306690612910832
+    second: FISHESSS2-Photoroom_11
+  - first:
+      213: 7906104566675356256
+    second: FISHESSS2-Photoroom_12
+  - first:
+      213: 5845948881191600340
+    second: FISHESSS2-Photoroom_13
+  - first:
+      213: 6314104704462141160
+    second: FISHESSS2-Photoroom_14
+  - first:
+      213: 5369093229820348540
+    second: FISHESSS2-Photoroom_15
+  - first:
+      213: -1590493967988844085
+    second: FISHESSS2-Photoroom_16
+  - first:
+      213: -10331288662935016
+    second: FISHESSS2-Photoroom_17
+  - first:
+      213: -604086464958605397
+    second: FISHESSS2-Photoroom_18
+  - first:
+      213: 7578572186228333549
+    second: FISHESSS2-Photoroom_19
+  - first:
+      213: -4249340410599540638
+    second: FISHESSS2-Photoroom_20
+  - first:
+      213: 6230440373348345003
+    second: FISHESSS2-Photoroom_21
+  - first:
+      213: -3478395655294093025
+    second: FISHESSS2-Photoroom_22
+  - first:
+      213: -4539633337771361842
+    second: FISHESSS2-Photoroom_23
+  - first:
+      213: -3655952247708742198
+    second: FISHESSS2-Photoroom_24
+  - first:
+      213: 6586787247468253493
+    second: FISHESSS2-Photoroom_25
+  - first:
+      213: -8298425734525523284
+    second: FISHESSS2-Photoroom_26
+  - first:
+      213: 4228211087838435517
+    second: FISHESSS2-Photoroom_27
+  - first:
+      213: -7629882893228325326
+    second: FISHESSS2-Photoroom_28
+  - first:
+      213: -4210125135633877061
+    second: FISHESSS2-Photoroom_29
+  - first:
+      213: 1805238362136614396
+    second: FISHESSS2-Photoroom_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 525
+        width: 147
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54346a25674a4b220800000000000000
+      internalID: 2500804521197192005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 516
+        width: 157
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d09cfd950d56af0800000000000000
+      internalID: -403687507154629327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 506
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf9f39ac833a2b00800000000000000
+      internalID: 804512162667012017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 510
+        width: 153
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63172632eaa363ee0800000000000000
+      internalID: -1281772524347952842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 517
+        width: 153
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469a3aaf978c31cb0800000000000000
+      internalID: -4894347943799969436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 532
+        width: 152
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be7a230c9db48fc0800000000000000
+      internalID: -3493458933166997839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 510
+        width: 153
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41671661829775310800000000000000
+      internalID: 1393715822775596564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 509
+        width: 144
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9868b476fcfb42e10800000000000000
+      internalID: 2172071817811560073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 368
+        width: 149
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc349572ba7460740800000000000000
+      internalID: 5117856826978288589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 365
+        width: 151
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e670100738291abc0800000000000000
+      internalID: -3773573919542278290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 356
+        width: 157
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f625c2edc90dec70800000000000000
+      internalID: 9001862010061006582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 367
+        width: 151
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa511ee794abe110800000000000000
+      internalID: 1291306690612910832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 361
+        width: 157
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a37cd073028bd60800000000000000
+      internalID: 7906104566675356256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 374
+        width: 150
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d08486c88bf02150800000000000000
+      internalID: 5845948881191600340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 213
+        width: 161
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6b61076c430a750800000000000000
+      internalID: 6314104704462141160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 366
+        width: 150
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78856988d9d28a40800000000000000
+      internalID: 5369093229820348540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 210
+        width: 159
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc99f94b92e6de9e0800000000000000
+      internalID: -1590493967988844085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 220
+        width: 151
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a7c296fbb4bdff0800000000000000
+      internalID: -10331288662935016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 228
+        width: 158
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7558a8f8add97f0800000000000000
+      internalID: -604086464958605397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 218
+        width: 156
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb9bc8104f7c2960800000000000000
+      internalID: 7578572186228333549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 215
+        width: 149
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2687088196f4705c0800000000000000
+      internalID: -4249340410599540638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 212
+        width: 149
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba42eaf5288f67650800000000000000
+      internalID: 6230440373348345003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 230
+        width: 151
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19fee1b4914abfc0800000000000000
+      internalID: -3478395655294093025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 77
+        width: 153
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9fd93088bfff0c0800000000000000
+      internalID: -4539633337771361842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 63
+        width: 149
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd878ffcc2734dc0800000000000000
+      internalID: -3655952247708742198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 59
+        width: 159
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5311b607a18f86b50800000000000000
+      internalID: 6586787247468253493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 74
+        width: 153
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa65aae2c116dc80800000000000000
+      internalID: -8298425734525523284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 65
+        width: 146
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db85af5159f9daa30800000000000000
+      internalID: 4228211087838435517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 62
+        width: 144
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236cb47fee53d1690800000000000000
+      internalID: -7629882893228325326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 67
+        width: 151
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7799ece71a295c0800000000000000
+      internalID: -4210125135633877061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FISHESSS2-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 66
+        width: 148
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf59f0ec9be7d0910800000000000000
+      internalID: 1805238362136614396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FISHESSS2-Photoroom_0: 2500804521197192005
+      FISHESSS2-Photoroom_1: -403687507154629327
+      FISHESSS2-Photoroom_10: 9001862010061006582
+      FISHESSS2-Photoroom_11: 1291306690612910832
+      FISHESSS2-Photoroom_12: 7906104566675356256
+      FISHESSS2-Photoroom_13: 5845948881191600340
+      FISHESSS2-Photoroom_14: 6314104704462141160
+      FISHESSS2-Photoroom_15: 5369093229820348540
+      FISHESSS2-Photoroom_16: -1590493967988844085
+      FISHESSS2-Photoroom_17: -10331288662935016
+      FISHESSS2-Photoroom_18: -604086464958605397
+      FISHESSS2-Photoroom_19: 7578572186228333549
+      FISHESSS2-Photoroom_2: 804512162667012017
+      FISHESSS2-Photoroom_20: -4249340410599540638
+      FISHESSS2-Photoroom_21: 6230440373348345003
+      FISHESSS2-Photoroom_22: -3478395655294093025
+      FISHESSS2-Photoroom_23: -4539633337771361842
+      FISHESSS2-Photoroom_24: -3655952247708742198
+      FISHESSS2-Photoroom_25: 6586787247468253493
+      FISHESSS2-Photoroom_26: -8298425734525523284
+      FISHESSS2-Photoroom_27: 4228211087838435517
+      FISHESSS2-Photoroom_28: -7629882893228325326
+      FISHESSS2-Photoroom_29: -4210125135633877061
+      FISHESSS2-Photoroom_3: -1281772524347952842
+      FISHESSS2-Photoroom_30: 1805238362136614396
+      FISHESSS2-Photoroom_4: -4894347943799969436
+      FISHESSS2-Photoroom_5: -3493458933166997839
+      FISHESSS2-Photoroom_6: 1393715822775596564
+      FISHESSS2-Photoroom_7: 2172071817811560073
+      FISHESSS2-Photoroom_8: 5117856826978288589
+      FISHESSS2-Photoroom_9: -3773573919542278290
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
